@@ -10,5 +10,6 @@ How to install?
 
 // The empty walltes saves to a text file and the non-empty wallets to another text file.
 
-if you liked it donate us: 
+if you liked it donate us in tron (trx):
 
+THw9s3PPxFKyC4XtHZMn1xrVJFTCoQpRgk
